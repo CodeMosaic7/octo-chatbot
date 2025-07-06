@@ -1,4 +1,4 @@
-```markdown
+
 # 🗣️ Personal Voice Chatbot for Manika
 
 This project is a **voice-enabled personal assistant chatbot** built using **LangChain**, **Ollama (LLaMA 3.2:1b)**, and **Streamlit**. It can carry on intelligent, memory-aware conversations with a friendly, concise tone — just like a real assistant. Conversations are stored locally for continuity across sessions.
