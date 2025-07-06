@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+.env
+.venv/
+env/
+venv/
+ENV/
+myenv/
+
+# VS Code settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ollama model data (optional if large model files are stored locally)
+ollama/
+*.bin
+*.gguf
+
+# Streamlit cache
+.streamlit/
+*.streamlit-*
+
+# Audio files (optional if generated during runtime)
+*.wav
+*.mp3
+
+# Logs and runtime files
+*.log
+*.tmp
+*.pid
+
+# Environment variable or secret files
+.env.*
+secrets.env
+config.yaml
+
+# Python package files
+dist/
+build/
+*.egg-info/
+
+# Mac/Linux/Windows OS metadata
+.DS_Store
+Thumbs.db
+
+
+chat_history.txt
